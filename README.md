@@ -4,3 +4,5 @@ a modal window project to practice keyboard events like (keydown, keypress, and 
 - you can click on the X button to close the modal.
 - click anywhere to close the modal.
 - use Escape key to close the modal.
+
+![Modal view](./modal.png)
